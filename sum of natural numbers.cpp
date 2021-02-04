@@ -13,6 +13,8 @@ return sum_of_natural_number;
 int main(){
 
 int a;
+  
+cin>>a>>endl;
 
 cout<<calculate_sum(a)<<endl;
 
