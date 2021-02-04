@@ -6,5 +6,5 @@
 
 > It consists of simple mathematical operations.
 
-> It have program on sum and squares of the natural numbers.
+> It have programs on sum of squares and cubes of the natural numbers.
 <hr>
